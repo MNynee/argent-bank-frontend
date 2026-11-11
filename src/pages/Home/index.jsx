@@ -3,7 +3,7 @@ import iconChat from '../../assets/icon-chat.webp'
 import iconMoney from '../../assets/icon-money.webp'
 import iconSecurity from '../../assets/icon-security.webp'
 import Feature from '../../components/Feature'
-import './home.css'
+import './Home.css'
 
 const Home = () => {
   return (
